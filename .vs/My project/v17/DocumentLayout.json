@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\win\\my project\\assets\\mpve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\mpve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\win\\My project\\assets\\_barking_dog\\readme_please.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\_barking_dog\\readme_please.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mpve.cs",
+              "DocumentMoniker": "C:\\Users\\win\\My project\\Assets\\mpve.cs",
+              "RelativeDocumentMoniker": "Assets\\mpve.cs",
+              "ToolTip": "C:\\Users\\win\\My project\\Assets\\mpve.cs",
+              "RelativeToolTip": "Assets\\mpve.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAApwDkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T05:37:39.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme_Please.txt",
+              "DocumentMoniker": "C:\\Users\\win\\My project\\Assets\\_Barking_Dog\\Readme_Please.txt",
+              "RelativeDocumentMoniker": "Assets\\_Barking_Dog\\Readme_Please.txt",
+              "ToolTip": "C:\\Users\\win\\My project\\Assets\\_Barking_Dog\\Readme_Please.txt",
+              "RelativeToolTip": "Assets\\_Barking_Dog\\Readme_Please.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-07T03:57:36.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
